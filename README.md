@@ -33,3 +33,6 @@ __bold text__
 welcome!
 @erqitao
 hello :)
+
+~~delte~~
+<del>also this</del>
